@@ -57,8 +57,9 @@ const About = () => {
                             variants={statsVariants}
                         >
                             <p className='text-xl text-secondary-text font-medium'>
-                                I've grown from simply enjoying problem-solving to dedicating myself to blending design with function, crafting interfaces that are both beautiful and intuitive. Each project is a chance to exceed expectations, bring visions to life with precision and care. I believe, every remarkable product tells a story of both expertise and the unique brand identity.
-                            </p>
+    {"I've grown from simply enjoying problem-solving to dedicating myself to blending design with function..."}
+</p>
+
                             <div className='flex flex-wrap gap-10 w-full my-4'>
                                 <motion.div variants={statItemVariants} className='flex flex-col'>
                                     <p className='text-primary-white text-7xl font-semibold'>01+</p>
