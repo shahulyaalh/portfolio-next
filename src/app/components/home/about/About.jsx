@@ -57,7 +57,7 @@ const About = () => {
                             variants={statsVariants}
                         >
                             <p className='text-xl text-secondary-text font-medium'>
-    {"I've grown from simply enjoying problem-solving to dedicating myself to blending design with function..."}
+                                {`I've grown from simply enjoying problem-solving to dedicating myself to blending design with function, crafting interfaces that are both beautiful and intuitive. Each project is a chance to exceed expectations, bring visions to life with precision and care. I believe, every remarkable product tells a story of both expertise and the unique brand identity.`}
 </p>
 
                             <div className='flex flex-wrap gap-10 w-full my-4'>
